@@ -1,6 +1,6 @@
 # Automatically deploy private Docker images to Amazon ECR
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/circleci-ecr-demo.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/circleci-ecr-demo)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/CIRCLECI-GWP/circleci-ecr-app-demo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/CIRCLECI-GWP/circleci-ecr-app-demo/tree/main)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
